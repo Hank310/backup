@@ -1,0 +1,11 @@
+# Hank Warner, P1
+x = input("Enter 1st Number")
+y = input("Enter 2nd Number")
+print( x + " + " + y + " = ")
+print(int(x) + int(y))
+print( x + " - " + y + " = ")
+print(int(x) - int(y))
+print( x + " * " + y + " = ")
+print(int(x) * int(y))
+print( x + " / " + y + " = ")
+print(int(x) / int(y))
